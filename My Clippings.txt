@@ -1,0 +1,795 @@
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 43 | Location 518-518 | Added on Monday, April 1, 2024 12:24:02 AM
+
+motivation.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 43 | Location 519-521 | Added on Monday, April 1, 2024 12:24:13 AM
+
+Dan Pink’s three elements of intrinsic motivation: autonomy (quashed by constant juggling of requests and priorities from multiple teams), mastery (“jack of all trades, master of none”), and purpose (too many domains of responsibility).
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 38 | Location 456-460 | Added on Monday, April 1, 2024 12:25:28 AM
+
+Naomi Stanford lists five rules of thumb for designing organizations:5 Design when there is a compelling reason. Develop options for deciding on a design. Choose the right time to design. Look for clues that things are out of alignment. Stay alert to the future.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 40 | Location 482-484 | Added on Monday, April 1, 2024 12:26:05 AM
+
+Conway’s law: “Organizations which design systems . . . are constrained to produce designs which are copies of the communication structures of these organizations.”
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 41 | Location 501-503 | Added on Monday, April 1, 2024 12:27:19 AM
+
+The key takeaway here is that thinking of software architecture as a standalone concept that can be designed in isolation and then implemented by any group of teams is fundamentally wrong.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 41 | Location 499-499 | Added on Monday, April 1, 2024 12:27:30 AM
+
+“inverse Conway maneuver”
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 41 | Location 499-500 | Added on Monday, April 1, 2024 12:27:43 AM
+
+organizing team structures to match the architecture they want the system to exhibit
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 42 | Location 507-508 | Added on Monday, April 1, 2024 12:28:42 AM
+
+cognitive load, it’s easy to understand that any one person has a limit on how much information they can hold in their brains at any given moment.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 42 | Location 511-513 | Added on Monday, April 1, 2024 12:29:02 AM
+
+cognitive load isn’t considered, teams are spread thin trying to cover an excessive amount of responsibilities and domains. Such a team lacks bandwidth to pursue mastery of their trade and struggles with the costs of switching contexts.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 50 | Location 589-591 | Added on Monday, April 1, 2024 12:42:53 AM
+
+Alan MacCormack and colleagues at Harvard Business School undertook studies of various open-source and closed-source software products and found “strong evidence to support the hypothesis that a product’s architecture tends to mirror the structure of the organization in which it is developed.”
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 50 | Location 593-594 | Added on Monday, April 1, 2024 12:43:21 AM
+
+there has been enough industry research undertaken to show that the homomorphic force identified by Conway’s law applies broadly.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 51 | Location 605-606 | Added on Monday, April 1, 2024 12:45:39 AM
+
+Communication paths (along formal reporting lines or not) within an organization effectively restrict the kinds of solutions that the organization can devise.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 41 | Location 499-500 | Added on Monday, April 1, 2024 12:53:25 AM
+
+“inverse Conway maneuver” (or reverse Conway maneuver), whereby an organization focuses on organizing team structures to match the architecture they want the system to exhibit
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 40 | Location 487-491 | Added on Monday, April 1, 2024 12:55:50 AM
+
+Allan Kelly calls the “homomorphic force.”8 This homomorphic force tends to make things the same shape between the software architecture and team structures. In other words, building software requires an understanding of communication across teams in order to realistically consider what kind of software architectures are feasible. If the desired theoretical system architecture does not fit the organizational model, then one of the two will need to change.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 59 | Location 664-666 | Added on Monday, April 1, 2024 12:58:20 AM
+
+Conway’s law tells us that we need to understand what software architecture is needed before we organize our teams, otherwise the communication paths and incentives in the organization will end up dictating the software architecture.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 59 | Location 668-673 | Added on Monday, April 1, 2024 1:00:29 AM
+
+The fundamental means of delivery is the team (see more in Chapter 3), so the system architecture needs to enable and encourage fast flow within each team. Thankfully, in practice, this means that we can follow proven software-architecture good practices: ​•​Loose coupling—components do not hold strong dependencies on other components ​•​High cohesion—components have clearly bounded responsibilities, and their internal elements are strongly related ​•​Clear and appropriate version compatibility ​•​Clear and appropriate cross-team testing
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 60 | Location 675-678 | Added on Monday, April 1, 2024 1:02:11 AM
+
+MacCormack and colleagues call “an ‘architecture for participation’ that promotes ease of understanding by limiting module size, and ease of contribution by minimizing the propagation of design changes.”8 In other words, we need a team-first software architecture that maximizes people’s ability to work with it.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 60 | Location 678-678 | Added on Monday, April 1, 2024 1:02:45 AM
+
+Keeping things decoupled and team-scoped should be a key,
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 60 | Location 686-688 | Added on Monday, April 1, 2024 1:05:10 AM
+
+If we accept that the self-similar force (between architecture and team organization) described by Conway is real, then we also need to accept that anyone who makes decisions about the shape and placement of engineering teams is strongly influencing the software systems architecture.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 61 | Location 688-690 | Added on Monday, April 1, 2024 1:05:39 AM
+
+Ruth Malan: “if we have managers deciding . . . which services will be built, by which teams, we implicitly have managers deciding on the system architecture.”
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 62 | Location 709-710 | Added on Monday, April 1, 2024 1:08:54 AM
+
+“managers should focus their efforts on understanding the causes of unaddressed design interfaces . . . and unpredicted team interactions . . . across modular systems.”
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 64 | Location 720 | Added on Monday, April 1, 2024 1:10:37 AM
+
+
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 65 | Location 727-727 | Added on Monday, April 1, 2024 1:11:09 AM
+
+team
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Bookmark on page 64 | Location 725 | Added on Monday, April 1, 2024 1:11:14 AM
+
+
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 65 | Location 735-737 | Added on Monday, April 1, 2024 1:14:01 AM
+
+pattern of communication and interaction where everyone needs to communicate with everyone else (putting the onus on the consumer to distill what is relevant) in order to get work done. From the viewpoint of Conway’s law, this will drive unintended consequences for the software systems, especially a lack of modularity between subsystems.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 65 | Location 737-741 | Added on Monday, April 1, 2024 1:14:56 AM
+
+If the organization has an expectation that “everyone should see every message in the chat” or “everyone needs to attend the massive standup meetings” or “everyone needs to be present in meetings” to approve decisions, then we have an organization design problem. Conway’s law suggests that this kind of many-to-many communication will tend to produce monolithic, tangled, highly coupled, interdependent systems that do not support fast flow. More communication is not necessarily a good thing.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 68 | Location 771-772 | Added on Monday, April 1, 2024 1:20:00 AM
+
+exceptional cases, where very detailed expertise is required. Generally speaking, we need to optimize for fast flow, so stream-aligned teams are preferred.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 74 | Location 839-841 | Added on Saturday, April 6, 2024 2:01:26 PM
+
+Teams need trust to operate effectively, but if the size of a group grows too large for the necessary level of trust, that group can no longer be as effective as it was when it was a smaller unit.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 74 | Location 841-846 | Added on Saturday, April 6, 2024 2:02:12 PM
+
+limit the size of team groupings to Dunbar’s number to help achieve predictable behavior and interactions from those teams: ​•​A single team: around five to eight people (based on industry experience)  ​■​In high-trust organizations: no more than fifteen people ​•​Families (“tribes”): groupings of teams of no more than fifty people  ​■​In high-trust organizations: groupings of no more than 150 people ​•​Divisions/streams/profit & loss (P&L) lines: groupings of no more than 150 or 500 people
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 75 | Location 846-847 | Added on Saturday, April 6, 2024 2:02:38 PM
+
+when one of the limits is reached, the need to split off another unit as a semi-independent grouping arises.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 76 | Location 856-857 | Added on Saturday, April 6, 2024 2:04:22 PM
+
+the software architecture needs to be realigned with the new team groupings so that teams can continue to own the architecture effectively. This is an example of what we like to call “team-first architecture,”
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 76 | Location 860-863 | Added on Saturday, April 6, 2024 2:04:52 PM
+
+Team-first software architecture is driven by Dunbar’s number. Expect to change the architecture of software systems to fit with the limits on human interactions set by Dunbar’s number. Approaches like microservices can help if applied with a team-first perspective.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 76 | Location 864-865 | Added on Saturday, April 6, 2024 2:06:01 PM
+
+a team can take from two weeks to three months or more to become a cohesive unit.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 77 | Location 868-869 | Added on Saturday, April 6, 2024 2:07:11 PM
+
+The Mythical Man-Month, adding new people to a team doesn’t immediately increase its capacity (this became known as Brooks’s law).
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 78 | Location 881-885 | Added on Saturday, April 6, 2024 2:10:58 PM
+
+The Tuckman model describes how teams perform in four stages: Forming: assembling for the first time Storming: working through initial differences in personality and ways of working Norming: evolving standard ways of working together Performing: reaching a state of high effectiveness
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 78 | Location 889-890 | Added on Saturday, April 6, 2024 2:13:52 PM
+
+Team ownership helps to provide the vital “continuity of care” that modern systems need in order to retain their operability and stay fit for purpose.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 78 | Location 890-891 | Added on Saturday, April 6, 2024 2:14:13 PM
+
+Team ownership also enables a team to think in multiple “horizons”
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 78 | Location 893-895 | Added on Saturday, April 6, 2024 2:14:27 PM
+
+Horizon 1 covers the immediate future with products and services that will deliver results the same year; Horizon 2 covers the next few periods, with an expanding reach of the products and services; and Horizon 3 covers many months ahead, where experimentation is needed to assess market fit and suitability of new services, products, and features.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 79 | Location 900-901 | Added on Saturday, April 6, 2024 2:16:06 PM
+
+Teams may use shared services at runtime, but every running service, application, or subsystem is owned by only one team. Outside teams may submit pull requests or suggestions for change to the owning team, but they cannot make changes themselves.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 79 | Location 903-904 | Added on Saturday, April 6, 2024 2:16:53 PM
+
+The team takes responsibility for the code and cares for it, but individual team members should not feel like the code is theirs to the exclusion of others.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 80 | Location 909-912 | Added on Saturday, April 6, 2024 2:19:05 PM
+
+For teams to work, team members should put the needs of the team above their own. They should: ​•​Arrive for stand-ups and meetings on time. ​•​Keep discussions and investigations on track. ​•​Encourage a focus on team goals. ​•​Help unblock other team members before starting on new work. ​•​Mentor new or less experienced team members. ​•​Avoid “winning” arguments and, instead, agree to explore options.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 83 | Location 950-950 | Added on Sunday, April 7, 2024 2:32:37 AM
+
+With a team-first approach, the team’s responsibilities are matched to the cognitive load that the team can handle.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 83 | Location 956-961 | Added on Sunday, April 7, 2024 2:35:29 AM
+
+Sweller defines three different kinds of cognitive load: ​•​Intrinsic cognitive load—relates to aspects of the task fundamental to the problem space (e.g., “What is the structure of a Java class?” “How do I create a new method?”) ​•​Extraneous cognitive load—relates to the environment in which the task is being done (e.g., “How do I deploy this component again?” “How do I configure this service?”) ​•​Germane cognitive load—relates to aspects of the task that need special attention for learning or high performance (e.g., “How should this service interact with the ABC service?”)
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 88 | Location 1021-1023 | Added on Monday, April 8, 2024 12:03:23 AM
+
+The first heuristic is to assign each domain to a single team. If a domain is too large for a team, instead of splitting responsibilities of a single domain to multiple teams, first split the domain into subdomains and then assign each new subdomain to a single team.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 86 | Location 993-994 | Added on Monday, April 8, 2024 12:04:29 AM
+
+When measuring cognitive load, what we really care about is the domain complexity—how complex is the problem that we’re trying to solve with software? A domain is a more largely applicable concept than software size.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 88 | Location 1024-1025 | Added on Monday, April 8, 2024 12:04:59 AM
+
+The second heuristic is that a single team (considering the golden seven-to-nine team size) should be able to accommodate two to three “simple” domains.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 89 | Location 1028-1029 | Added on Monday, April 8, 2024 12:05:42 AM
+
+The third heuristic is that a team responsible for a complex domain should not have any more domains assigned to them—not even a simple one.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 89 | Location 1031-1032 | Added on Monday, April 8, 2024 12:05:54 AM
+
+The last heuristic is to avoid a single team responsible for two complicated domains.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 88 | Location 1017-1019 | Added on Monday, April 8, 2024 12:07:29 AM
+
+identify distinct domains that each team has to deal with, and classify these domains into simple (most of the work has a clear path of action), complicated (changes need to be analyzed and might require a few iterations on the solution to get it right), or complex (solutions require a lot of experimentation and discovery).
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 93 | Location 1057-1063 | Added on Monday, April 8, 2024 12:13:00 AM
+
+tune the ecosystem in which the team works in order to maximize the cognitive capacity of the team (by reducing the intrinsic and extraneous types of load): ​•​Provide a team-first working environment (physical or virtual). (You’ll see more later in this chapter). ​•​Minimize team distractions during the workweek by limiting meetings, reducing emails, assigning a dedicated team or person to support queries, and so forth. ​•​Change the management style by communicating goals and outcomes rather than obsessing over the “how,” what McChrystal calls “Eyes On, Hands Off” in Team of Teams.26 ​•​Increase the quality of developer experience (DevEx) for other teams using your team’s code and APIs through good documentation, consistency, good UX, and other DevEx practices.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 95 | Location 1089-1096 | Added on Monday, April 8, 2024 12:17:27 AM
+
+The team API includes: ​•​Code: runtime endpoints, libraries, clients, UI, etc. produced by the team ​•​Versioning: how the team communicates changes to its code and services (e.g., using semantic versioning [SemVer] as a “team promise” not to break things) ​•​Wiki and documentation: especially how-to guides for the software owned by the team ​•​Practices and principles: the team’s preferred ways of working ​•​Communication: the team’s approach to remote communication tools, such as chat tools and video conferencing ​•​Work information: what the team is working on now, what’s coming next, and overall priorities in the short to medium term ​•​Other: anything else that other teams need to use to interact with the team
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 114 | Location 1291-1293 | Added on Monday, April 8, 2024 12:49:24 AM
+
+The first anti-pattern is ad hoc team design. This includes teams that have grown too large and been broken up as the communication overhead starts taking a toll, teams created to take care of all COTS software or all middleware, or a DBA team created after a software crash in production due to poor database handling.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 114 | Location 1289-1290 | Added on Monday, April 8, 2024 12:49:55 AM
+
+When organizations do not explicitly think about team structures and patterns of interaction, they encounter unexpected difficulties building and running software systems.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 115 | Location 1295-1296 | Added on Monday, April 8, 2024 12:50:35 AM
+
+The other common anti-pattern is shuffling team members. This leads to extremely volatile team assembled on a project basis and disassembled immediately afterward,
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 120 | Location 1361-1366 | Added on Monday, April 8, 2024 1:02:25 AM
+
+A key contribution of DevOps was to raise awareness of the problems lingering in how teams interacted (or not) across the delivery chain, causing delays, rework, failures, and a lack of understanding and empathy toward other teams. It also became clear that such issues were not only happening between application development and operations teams but in interactions with many other teams involved in software delivery, like QA, InfoSec, networking, and more. Even though many people see DevOps as fundamentally addressing technological aspects of automation and tooling, only organizations that also address fundamental misalignments between teams are able to achieve the full potential benefits from adopting DevOps.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 120 | Location 1367-1369 | Added on Monday, April 8, 2024 1:03:32 AM
+
+The DevOps Topologies catalog, originally created by Matthew Skelton in 2013 and later expanded by Manuel Pais, is an online collection of team design and interactions patterns and anti-patterns that work well for kick-starting conversations around team responsibilities, interfaces, and collaboration between technology teams.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 120 | Location 1371-1373 | Added on Monday, April 8, 2024 1:04:02 AM
+
+they were never meant to be static structures, but rather a depiction of a moment in time influenced by multiple factors, like the type of products delivered, technical leadership, and operational experience.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 121 | Location 1377-1381 | Added on Monday, April 8, 2024 1:05:24 AM
+
+The DevOps Topologies reflect two key ideas: (1) There is no one-size-fits-all approach to structuring teams for DevOps success. The suitability and effectiveness of any given topology depends on the organization’s context. (2) There are several topologies known to be detrimental (anti-patterns) to DevOps success, as they overlook or go against core tenets of DevOps. In short, there is no “right” topology, but several “bad” topologies for any one organization.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 122 | Location 1389-1392 | Added on Monday, April 8, 2024 1:10:31 AM
+
+A cross-functional feature team can bring high value to an organization by delivering cross-component, customer-centric features much faster than multiple component teams making their own changes and synchronizing into a single release. But this can only happen when the feature team is self-sufficient, meaning they are able to deliver features into production without waiting for other teams.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 122 | Location 1392-1393 | Added on Monday, April 8, 2024 1:11:18 AM
+
+The feature team typically needs to touch multiple codebases, which might be owned by different component teams. If the team does not have a high degree of engineering maturity, they might take shortcuts,
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 122 | Location 1394-1395 | Added on Monday, April 8, 2024 1:11:26 AM
+
+Over time, this leads to a breakdown of trust between teams as technical debt increases and slows down delivery speed.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 123 | Location 1405-1407 | Added on Monday, April 8, 2024 1:13:10 AM
+
+Therefore, specific roles were created, such as system architects, system owners, or integration leads. Crucially, people in these roles work across the entire project/organization sort of like “communication conduits,” with direct and frequent interaction with feature teams.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 123 | Location 1409-1411 | Added on Monday, April 8, 2024 1:16:05 AM
+
+Product teams (identical in purpose and characteristics to a feature team but owning the entire set of features for one or more products) still depend on infrastructure, platform, test environments, build systems, and delivery pipelines (and more) for their work to become available to end users.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 124 | Location 1413-1413 | Added on Monday, April 8, 2024 1:16:25 AM
+
+The key for the team to remain autonomous is for external dependencies to be non-blocking,
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 124 | Location 1417-1419 | Added on Monday, April 8, 2024 1:16:38 AM
+
+Non-blocking dependencies often take the form of self-service capabilities (e.g., around provisioning test environments, creating deployment pipelines, monitoring, etc.) developed and maintained by other teams.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 124 | Location 1424-1425 | Added on Monday, April 8, 2024 1:16:47 AM
+
+Creating product teams without a compatible support system, consisting of easy-to-consume services (preferably via a platform-oriented approach) and readily available expertise for tasks that the team is unfamiliar with, creates more bottlenecks.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 125 | Location 1431-1435 | Added on Monday, April 8, 2024 1:17:36 AM
+
+Product teams need autonomy to provision their own environments and resources in the cloud, creating new images and templates where necessary. The cloud team might still own the provisioning process—ensuring that the necessary controls, policies, and auditing are in place (especially in highly regulated industries)—but their focus should be in providing high-quality self-services that match both the needs of product teams and the need for adequate risk and compliance management.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 126 | Location 1440-1442 | Added on Monday, April 8, 2024 1:19:10 AM
+
+People on SRE teams need excellent coding skills and—crucially—a strong drive (and bandwidth) to automate repetitive Ops tasks using code, thereby continually reducing toil.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 126 | Location 1443-1445 | Added on Monday, April 8, 2024 1:19:39 AM
+
+The SRE model sets up a healthy and productive interaction between the development and SRE teams by using service-level objectives (SLOs) and error budgets to balance the speed of new features with whatever work is needed to make the software reliable.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 127 | Location 1458-1466 | Added on Monday, April 8, 2024 1:22:44 AM
+
+Initially (#1 in Figure 4.3), the application development team alone builds and runs the software in production until the scale merits SRE help. During a second stage (#2 in Figure 4.3), as the application usage increases, SRE provides guidance (represented in green) to the application development team on how to make the application work better at global scale. Later, SRE becomes fully involved by running and supporting the application (but still collaborating with the application team) when the scale merits it (#3 in Figure 4.3). At this point, the product owner for the application must decide a suitable service-level objective with a corresponding error budget. If at some point (#4 in Figure 4.3) the application becomes too difficult to support due to lack of operability, or if the application usage drops off, the application team takes on operational responsibility again. If the application’s operability improves sufficiently (to meet the error budget) and application usage also increases, the relationship might go back to stage #3.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 130 | Location 1490-1491 | Added on Monday, April 8, 2024 1:25:50 AM
+
+At the very least, organization size (or software scale) and engineering maturity should influence which topologies are chosen in a DevOps context, as shown in Figure 4.4
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 138 | Location 1586-1590 | Added on Monday, April 15, 2024 1:09:10 AM
+
+Do we have the right teams in place? Are we lacking capabilities in some areas that are not being addressed by any team? Does it look like teams have the necessary balance between autonomy and support by other teams? Answering these questions becomes simpler if we reduce the number of team variations to four fundamental team topologies: ​•​Stream-aligned team ​•​Enabling team ​•​Complicated-subsystem team ​•​Platform team
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 140 | Location 1604-1606 | Added on Monday, April 15, 2024 1:11:06 AM
+
+Where is the Ops team? Where is the support team? There is no “Ops” team or “support” team in the fundamental topologies, and this is deliberate. The long-lived teams building the systems are very close to the live operation of the systems they are building. There is no “handover” to a separate Ops or support team;
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 141 | Location 1614-1615 | Added on Monday, April 22, 2024 9:44:38 PM
+
+A stream-aligned team is a team aligned to a single, valuable stream of work; this might be a single product or service,
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 141 | Location 1617-1620 | Added on Monday, April 22, 2024 9:47:02 PM
+
+The stream-aligned team is the primary team type in an organization, and the purpose of the other fundamental team topologies is to reduce the burden on the stream-aligned teams. As we see later in this chapter, the mission of an enabling team, for instance, is to help stream-aligned teams acquire missing capabilities, taking on the effort of research and trials, and setting up successful practices. The mission of a platform team is to reduce the cognitive load of stream-aligned teams by off-loading lower level detailed knowledge
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 142 | Location 1625-1626 | Added on Monday, April 22, 2024 9:48:14 PM
+
+Different streams can coexist in an organization: specific customer streams, business-area streams, geography streams, product streams, user-persona streams, or even compliance streams
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 144 | Location 1659-1662 | Added on Monday, April 22, 2024 9:53:15 PM
+
+These capabilities include (but are not restricted to): ​•​Application security ​•​Commercial and operational viability analysis ​•​Design and architecture ​•​Development and coding ​•​Infrastructure and operability ​•​Metrics and monitoring ​•​Product management and ownership ​•​Testing and quality assurance ​•​User experience (UX)
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 144 | Location 1659-1662 | Added on Monday, April 22, 2024 9:53:43 PM
+
+These capabilities include (but are not restricted to): ​•​Application security ​•​Commercial and operational viability analysis ​•​Design and architecture ​•​Development and coding ​•​Infrastructure and operability ​•​Metrics and monitoring ​•​Product management and ownership ​•​Testing and quality assurance ​•​User experience (UX) It’s critical not to assume each capability maps to an individual role in the team;
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 147 | Location 1688-1697 | Added on Monday, April 22, 2024 10:05:15 PM
+
+What kind of behaviors and outcomes do we expect to see in an effective stream-aligned team? ​•​A stream-aligned team aims to produce a steady flow of feature delivery. ​•​A stream-aligned team is quick to course correct based on feedback from the latest changes. ​•​A stream-aligned team uses an experimental approach to product evolution, expecting to constantly learn and adapt. ​•​A stream-aligned team has minimal (ideally zero) hand-offs of work to other teams. ​•​A stream-aligned team is evaluated on the sustainable flow of change it produces (together with some supporting technical and team-health metrics). ​•​A stream-aligned team must have time and space to address code quality changes (sometimes called “tech debt”) to ensure that changing the code remains safe and easy to do. ​•​A stream-aligned team proactively and regularly reaches out to the supporting fundamental-topologies teams (complicated subsystem, enabling, and platform). ​•​Members of a stream-aligned team feel they have achieved or are in the path to achieving “autonomy, mastery, and purpose,” the three key components of engaged knowledge workers, according to Daniel Pink.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 148 | Location 1702-1705 | Added on Monday, April 22, 2024 10:06:27 PM
+
+An enabling team is composed of specialists in a given technical (or product) domain, and they help bridge this capability gap. Such teams cross-cut to the stream-aligned teams and have the required bandwidth to research, try out options, and make informed suggestions on adequate tooling, practices, frameworks, and any of the ecosystem choices around the application stack.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 149 | Location 1712-1715 | Added on Monday, April 22, 2024 10:10:01 PM
+
+The end goal of an enabling team is to increase the autonomy of stream-aligned teams by growing their capabilities with a focus on their problems first, not the solutions per se. If an enabling team does its job well, the team that it is helping should no longer need the help from the enabling team after a few weeks or months; there should not be a permanent dependency on an enabling team.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 149 | Location 1719-1721 | Added on Monday, April 22, 2024 10:10:48 PM
+
+A single enabling team might map to any of the stream-aligned team capabilities we listed in the previous section (user experience, architecture, testing, and so on), but often they are focused on more specific areas, such as build engineering, continuous delivery, deployments, or test automation for particular client technology
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 150 | Location 1727-1729 | Added on Monday, April 22, 2024 10:13:29 PM
+
+What kind of behaviors and outcomes do we expect to see in an effective enabling team? ​•​An enabling team proactively seeks to understand the needs of stream-aligned teams, establishing regular checkpoints and jointly agreeing when more collaboration is needed.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 150 | Location 1730-1730 | Added on Monday, April 22, 2024 10:13:49 PM
+
+An enabling team stays ahead of the curve in keeping abreast of new approaches, tooling, and practices in their area of expertise,
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 151 | Location 1732-1733 | Added on Monday, April 22, 2024 10:14:17 PM
+
+An enabling team acts as a messenger of both good news (e.g., “There’s a new UI automation framework that can reduce our custom test code by 50%.”) and bad news
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 151 | Location 1734-1735 | Added on Monday, April 22, 2024 10:14:51 PM
+
+Occasionally, the enabling team might act as a proxy for external (or internal) services that are currently too difficult for stream-aligned
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 151 | Location 1735-1736 | Added on Monday, April 22, 2024 10:15:04 PM
+
+An enabling team promotes learning not only inside the enabling team but across stream-aligned teams,
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 154 | Location 1764-1766 | Added on Monday, April 22, 2024 10:20:31 PM
+
+The primary purpose of an enabling team is to help stream-aligned teams deliver working software in a sustainable, responsible way. Enabling teams do not exist to fix problems that arise from poor practices, poor prioritization choices, or poor code quality within stream-aligned teams.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 154 | Location 1771-1773 | Added on Monday, April 22, 2024 10:21:57 PM
+
+CoP is a more diffuse grouping of interested individuals from across several teams, with an aim to share practices and improve working methods on a weekly (or monthly) basis.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 154 | Location 1773-1774 | Added on Monday, April 22, 2024 10:22:07 PM
+
+Communities of practice create the right environment for social learning, experiential learning, and a rounded curriculum, leading to accelerated learning for members
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 155 | Location 1780-1781 | Added on Monday, April 22, 2024 10:23:31 PM
+
+A complicated-subsystem team is responsible for building and maintaining a part of the system that depends heavily on specialist knowledge,
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 155 | Location 1782-1783 | Added on Monday, April 22, 2024 10:23:56 PM
+
+The goal of this team is to reduce the cognitive load of stream-aligned teams working on systems that include or use the complicated subsystem.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 157 | Location 1802-1803 | Added on Monday, April 22, 2024 10:26:46 PM
+
+The purpose of a platform team is to enable stream-aligned teams to deliver work with substantial autonomy.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 157 | Location 1806-1808 | Added on Monday, April 22, 2024 10:27:07 PM
+
+A digital platform is a foundation of self-service APIs, tools, services, knowledge and support which are arranged as a compelling internal product. Autonomous delivery teams can make use of the platform to deliver product features at a higher pace, with reduced coordination.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 158 | Location 1816-1817 | Added on Monday, April 22, 2024 10:28:48 PM
+
+“A platform team’s value can be measured by the value of the services they provide to product teams.”
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 158 | Location 1822-1825 | Added on Monday, April 22, 2024 10:30:28 PM
+
+Don Reinertsen recommends using internal pricing (for infrastructure and services) to regulate demand, helping to avoid everyone asking for premium level.15 An example could be tracking cloud-infrastructure costs by team or service.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 159 | Location 1835-1841 | Added on Monday, April 22, 2024 10:32:57 PM
+
+What kind of behaviors and outcomes do we expect to see in an effective platform team? ​•​A platform team uses strong collaboration with stream-aligned teams to understand their needs. ​•​A platform team relies on fast prototyping techniques and involves stream-aligned team members for fast feedback on what works and what does not. ​•​A platform team has a strong focus on usability and reliability for their services (treating the platform as a product), and regularly assesses if the services are still fit for purpose and usable. ​•​A platform team leads by example: using the services they provide internally (when applicable), partnering with stream-aligned teams and enabling teams, and consuming lower level platforms (owned by other platform teams) whenever possible. ​•​A platform team understands that adoption of internal new services, like new technologies, is not immediate, but instead evolves along an adoption curve.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 163 | Location 1876 | Added on Monday, April 22, 2024 10:36:34 PM
+
+
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 163 | Location 1876-1877 | Added on Monday, April 22, 2024 10:36:47 PM
+
+Figure 5.2: Platform Composed of Several Fundamental Team Topologies
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 168 | Location 1929-1933 | Added on Monday, April 22, 2024 10:45:00 PM
+
+Generally speaking, teams composed only of people with a single functional expertise should be avoided if we want to deliver software rapidly and safely. Traditionally, many organizations created islands, or “silos,” of functional expertise by grouping the staff, such as: ​•​Testing or “quality assurance” (QA) ​•​Database administration (DBA) ​•​User experience (UX) ​•​Architecture ​•​Data processing (such as ETL)
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 168 | Location 1936-1938 | Added on Monday, April 22, 2024 10:45:28 PM
+
+Organizations that optimize for a safe and rapid flow of change tend to use mixed-discipline or cross-functional teams aligned to the flow of change—what we call stream-aligned teams.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 169 | Location 1949-1951 | Added on Monday, April 22, 2024 10:46:25 PM
+
+A good platform provides standards, templates, APIs, and well-proven best practices for Dev teams to use to innovate rapidly and effectively. A good platform should make it easy for Dev teams to do the right things in the right way for the organization; this applies to all kinds of product development, not just those involving software.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 170 | Location 1960-1960 | Added on Monday, April 22, 2024 10:48:02 PM
+
+In all cases, we should aim for a thinnest viable platform (TVP) and avoid letting the platform dominate the discourse.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 170 | Location 1960-1962 | Added on Monday, April 22, 2024 10:48:26 PM
+
+In all cases, we should aim for a thinnest viable platform (TVP) and avoid letting the platform dominate the discourse. As Allan Kelly says, “software developers love building platforms and, without strong product management input, will create a bigger platform than needed.”
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 171 | Location 1970-1972 | Added on Monday, April 22, 2024 10:49:47 PM
+
+By aiming to reduce cognitive load on Dev teams, a good platform helps Dev teams focus on the germane (differentiating) aspects of a problem, increasing personal and team-level flow, and enabling the whole team to be more effective.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 172 | Location 1980-1982 | Added on Monday, April 22, 2024 10:51:28 PM
+
+An attention to good UX/DevEx will make the platform compelling to use, and the platform will feel consistent in the way the APIs and features work. How-to guides and other documentation will be comprehensive (but not verbose), up to date, and focused on achieving specific tasks, not documenting every last corner and niche of the platform.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 172 | Location 1987-1990 | Added on Monday, April 22, 2024 10:54:15 PM
+
+In a software context, this metaphor means that each platform is itself built on another platform, even if the underlying platform is hidden or implied. If the underlying or lower-level platform is not well defined or stable, the upper platform will itself be unstable, and unable to provide the firm foundation needed to accelerate software delivery within the rest of the organization.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 175 | Location 2020-2023 | Added on Monday, April 22, 2024 11:07:20 PM
+
+In fact, we think that most organizations would see major gains in effectiveness by mapping each of their teams to one of the four fundamental topologies; that is, identify which of the four fundamental topologies would represent the best way of working for each team, and then change that team’s remit to adopt the purpose and behavior patterns of that topology.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 175 | Location 2023-2025 | Added on Monday, April 22, 2024 11:08:32 PM
+
+Most teams in a flow-optimized organization should be long-lived, multi-disciplined, stream-aligned teams. These teams take ownership of discrete slices of functionality or certain user outcomes, building strong and lasting relationships with business representatives and other delivery teams.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 177 | Location 2039-2042 | Added on Monday, April 22, 2024 11:10:15 PM
+
+Existing teams based on a technology component should either be dissolved, with the work going into stream-aligned teams or converted into another team type: as part of the platform (if the component is a lower-level “platform” component), to an enabling team (if the component is easy enough for stream-aligned teams to work with), or to a complicated-subsystem team
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 178 | Location 2051-2053 | Added on Monday, April 22, 2024 11:10:53 PM
+
+Likewise, “middleware” teams can also be converted to platform teams if they make those parts of the system easier to use for stream-aligned teams, reducing cognitive load for developers by customizing, simplifying, or wrapping the middleware into easy-to-consume self-serve services aligned to the key organization goals.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 178 | Location 2057-2058 | Added on Monday, April 22, 2024 11:11:23 PM
+
+Tooling teams are typically better run either as enabling teams—with a short-lived and highly focused remit—or as part of the platform (with a clear, well-informed roadmap).
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 178 | Location 2063-2064 | Added on Monday, April 22, 2024 11:12:28 PM
+
+The model for IT support that consistently seems to work best has two aspects: (1) support teams aligned to the stream of changes, and (2) dynamic cross-team activity to resolve live service incidents.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 183 | Location 2102-2104 | Added on Monday, April 22, 2024 11:17:17 PM
+
+restrict teams to just four fundamental types—stream aligned, enabling, complicated subsystem, and platform. This focuses the organization on team interaction patterns that are known to promote flow at both personal and organizational levels.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 186 | Location 2137-2138 | Added on Wednesday, April 24, 2024 11:53:43 PM
+
+The research published in Accelerate demonstrates that tightly coupled architectures negatively influence the capacity of having autonomous teams with clear responsibilities.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 186 | Location 2134-2137 | Added on Wednesday, April 24, 2024 11:54:00 PM
+
+Many problems in delivering software come from accidentally unclear boundaries between different teams and their responsibilities. This is often shadowed by a software architecture with high coupling between its different parts (even if on paper the architecture was supposed to be highly modular and extensible), as Conway’s law tells us. Such a system is commonly called a “monolith.”
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 187 | Location 2148-2148 | Added on Wednesday, April 24, 2024 11:55:45 PM
+
+There are many kinds of monolithic software, some of which are hard to detect at first.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 187 | Location 2152-2153 | Added on Wednesday, April 24, 2024 11:56:03 PM
+
+An application monolith is a single, large application with many dependencies and responsibilities that possibly exposes many services and/or different user journeys.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 188 | Location 2156-2158 | Added on Wednesday, April 24, 2024 11:56:49 PM
+
+A joined-at-the-database monolith is composed of several applications or services, all coupled to the same database schema, making them difficult to change, test, and deploy separately.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 188 | Location 2161-2162 | Added on Wednesday, April 24, 2024 11:57:21 PM
+
+A monolithic build uses one gigantic continuous-integration (CI) build to get a new version of a component.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 188 | Location 2165-2167 | Added on Wednesday, April 24, 2024 11:58:12 PM
+
+A monolithic release is a set of smaller components bundled together into a “release.” When components or services can be built independently in CI but are only able to test in a shared static environment without service mocks, people end up bringing into that same environment all the latest versions of the components.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 189 | Location 2171-2173 | Added on Wednesday, April 24, 2024 11:58:58 PM
+
+A monolithic model is software that attempts to force a single domain language and representation (format) across many different contexts. While it may make sense to favor this kind of consistency in small organizations
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 189 | Location 2175-2178 | Added on Wednesday, April 24, 2024 11:59:53 PM
+
+Monolithic thinking is “one size fits all” thinking for teams that leads to unnecessary restrictions on technology and implementation approaches between teams. Standardizing everything in order to minimize variation simplifies management oversight of engineering teams, but it comes at a high premium.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 189 | Location 2179-2181 | Added on Thursday, April 25, 2024 12:00:04 AM
+
+In Accelerate, the authors mention how their research indicates that enforcing standardization upon teams actually reduces learning and experimentation, leading to poorer solution choices.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 190 | Location 2182-2184 | Added on Thursday, April 25, 2024 12:01:37 AM
+
+A monolithic workplace is a single office-layout pattern for all teams and individuals in the same geographic location—typically isolated individual work spaces (cubicles) or an open-plan layout without explicit barriers between people’s desks.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 190 | Location 2193-2194 | Added on Thursday, April 25, 2024 12:02:22 AM
+
+Splitting software can reduce the consistency between different parts of the software and can lead to accidental data duplication across multiple subsystems.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 191 | Location 2196-2197 | Added on Thursday, April 25, 2024 12:03:00 AM
+
+A fracture plane is a natural seam in the software system that allows the system to be split easily into two or more parts.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 191 | Location 2198-2201 | Added on Thursday, April 25, 2024 12:03:25 AM
+
+Traditional stonemasons hit stones at particular angles to split the rocks in clean segments, taking advantage of their natural fracture planes. We can look for similar fracture planes in software to find the natural split points that lead to software boundaries. It is usually best to try to align software boundaries with the different business domain areas.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 191 | Location 2206-2207 | Added on Thursday, April 25, 2024 12:04:19 AM
+
+Most of our fracture planes (software responsibility boundaries) should map to business-domain bounded contexts.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 193 | Location 2223-2225 | Added on Thursday, April 25, 2024 12:05:38 AM
+
+Other advantages of applying DDD include focusing on core complexity and opportunities within a bounded context for a given business domain, exploring models via collaboration between business experts
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 193 | Location 2229-2230 | Added on Thursday, April 25, 2024 12:06:00 AM
+
+In highly regulated industries, like finance or healthcare, regulatory requirements can often provide hard borders for software. They often require organizations to adopt specific mechanisms for auditing, documenting, testing, and deploying software
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 194 | Location 2245-2247 | Added on Thursday, April 25, 2024 12:07:25 AM
+
+Another natural fracture plane is where different parts of the system need to change at different frequencies. With a monolith, every piece moves at the speed of the slowest part.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 195 | Location 2252-2254 | Added on Thursday, April 25, 2024 12:07:39 AM
+
+Teams distributed geographically and across different time zones are obviously not colocated. But even teams with members working in the same office building on different floors or in different physical spaces can be considered geographically separate.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 196 | Location 2267-2269 | Added on Thursday, April 25, 2024 12:08:06 AM
+
+Different risk profiles might coexist within a large monolith. Taking more risk means accepting a higher probability of system or outcome failure in favor of getting changes into the hands of customers faster.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 198 | Location 2290-2294 | Added on Thursday, April 25, 2024 12:10:06 AM
+
+Technology is often (historically) the only type of boundary used when splitting up teams. Consider how common it is to have separate teams for front end, back end, data tier, etc. However, these common kinds of technology-driven splits typically introduce more constraints and reduce flow of work rather than improve it. That is because the separate teams are less autonomous, as product dependencies remain while each team has less visibility on the work as a whole, and inter-team communication paths are slower than intra-team.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 212 | Location 2429-2431 | Added on Thursday, April 25, 2024 12:19:42 AM
+
+However, it is not sufficient to simply choose a team boundary a single time and expect no further changes; instead, organizations must anticipate the need for evolution of team patterns to meet business, organizational, market, technological, and personnel needs.
+==========
+﻿Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 213 | Location 2451-2451 | Added on Thursday, April 25, 2024 12:45:59 AM
+
+for all teams to communicate
+==========
+Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 215 | Location 2463-2467 | Added on Saturday, April 27, 2024 12:00:51 PM
+
+three essential ways in which teams can and should interact, taking into account team-first dynamics and Conway’s law: Collaboration: working closely together with another team  X-as-a-Service: consuming or providing something with minimal collaboration Facilitating: helping (or being helped by) another team to clear impediments A combination of all three team interaction modes is likely needed for most medium-sized and large enterprises
+==========
+Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 217 | Location 2494-2495 | Added on Saturday, April 27, 2024 12:03:53 PM
+
+The collaboration team mode is suitable where a high degree of adaptability or discovery is needed, particularly when exploring new technologies or techniques.
+==========
+Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 217 | Location 2498-2499 | Added on Saturday, April 27, 2024 12:04:17 PM
+
+The collaborative mode requires good alignment and a high appetite and ability for working together between teams.
+==========
+Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 218 | Location 2505-2510 | Added on Saturday, April 27, 2024 12:05:57 PM
+
+There are two useful ways to visualize teams interacting using the collaboration mode. The first is to visualize two teams with distinct expertise and responsibilities working together on a small set of things. In this first collaboration interaction, the two teams substantially retain their responsibility and expertise for their natural area of focus, and work together on a specific subset of activities and details. The second visualization of collaboration mode identifies that the nature of working together between teams can be almost total: although there were originally two teams with different skills and expertise, now there is effectively a single team pooling expertise and responsibilities.
+==========
+Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 218 | Location 2511-2512 | Added on Saturday, April 27, 2024 12:06:09 PM
+
+In both cases—with a small defined overlap, and with a full overlap of focus and responsibilities—the two teams must take on joint responsibility for the overall outcomes of their collaboration,
+==========
+Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 219 | Location 2515-2517 | Added on Saturday, April 27, 2024 12:07:02 PM
+
+However, the cognitive load of ongoing collaboration can be much higher than working purely inside the team’s “natural” area. This means the communication overhead is going to be higher, possibly resulting in the apparent reduction of team effectiveness when viewed as a single team.
+==========
+Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 219 | Location 2525-2536 | Added on Saturday, April 27, 2024 12:08:19 PM
+
+Table7.1: Advantages and Disadvantages of Collaboration Mode Advantages Disadvantages Rapid innovation and discovery Fewer hand-offs Wide, shared responsibility for each team More detail/context needed between teams, leading to higher cognitive load Possible reduced output during collaboration compared to before Constraint: A team should use collaboration mode with, at most, one other team at a time. A team should not use collaboration with more than one team at the same time. Typical Uses: Stream-aligned teams working with complicated-subsystem teams; stream-aligned teams working with platform teams; complicated-subsystem teams working with platform teams
+==========
+Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 220 | Location 2542-2543 | Added on Sunday, April 28, 2024 8:29:17 AM
+
+In this model, teams can rely on certain aspects of their technology landscape being provided as a service by other teams (internal or external), allowing the team to focus on delivering their work.
+==========
+Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 220 | Location 2539-2540 | Added on Sunday, April 28, 2024 8:29:39 AM
+
+X-as-a-Service: consuming or providing something with minimal collaboration
+==========
+Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 221 | Location 2547-2548 | Added on Sunday, April 28, 2024 8:30:18 AM
+
+With X-as-a-Service, there is great clarity about who owns what: one team consumes something that the other team provides.
+==========
+Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 222 | Location 2561-2563 | Added on Sunday, April 28, 2024 8:31:32 AM
+
+This means that for the X-as-a-Service model, there should be a high value gained from some teams being able to ignore low-level details of the service that they consume from another team, allowing them to move quickly without needing to be concerned with implementation details.
+==========
+Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 223 | Location 2567-2568 | Added on Sunday, April 28, 2024 8:32:33 AM
+
+They must make the developer experience (DevEx) highly compelling. The service they provide should be straightforward to use, test, deploy, and/or debug; and the documentation on how to use it should be clear, well-written, and up to date.
+==========
+Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 223 | Location 2576-2586 | Added on Sunday, April 28, 2024 8:34:03 AM
+
+Advantages Disadvantages Clarity of ownership with clear responsibility boundaries Reduced detail/context needed between teams, so cognitive load is limited Slower innovation of the boundary or API Danger of reduced flow if the boundary or API is not effective Constraint: A team should expect to use the X-as-a-Service interaction with many other teams simultaneously, whether consuming or providing a service. Typical Uses: Stream-aligned teams and complicated-subsystem teams consuming Platform-as-a-Service from a platform team; stream-aligned teams and complicated-subsystem teams consuming a component or library as a service from a complicated-subsystem team.
+==========
+Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 224 | Location 2588-2591 | Added on Sunday, April 28, 2024 8:35:19 AM
+
+The facilitating interaction mode is the main operating mode of an enabling team (see Chapter 5) and provides support and capabilities to many other teams, helping to enhance the productivity and effectiveness of these teams. The remit of the team undertaking the facilitation is to enable the other team(s) to be more effective, learn more quickly, understand a new technology better, and discover and remove common problems or impediments across the teams.
+==========
+Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 225 | Location 2600-2602 | Added on Sunday, April 28, 2024 8:40:36 AM
+
+Because only one of the two teams in a facilitation team interaction is building the main software systems, the effects of Conway’s law have already been anticipated: the team doing the facilitating helps to define and clarify the communication between other teams based on the system desired architecture.
+==========
+Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 225 | Location 2604-2613 | Added on Sunday, April 28, 2024 8:40:56 AM
+
+Advantages Disadvantages Unblocking of stream-aligned teams to increase flow Detection of gaps and misaligned capabilities or features in components and platforms Requires experienced staff to not work on “building” or “running” things The interaction may be unfamiliar or strange to one or both teams involved in facilitation Constraint: A team should expect to use the facilitating interaction mode with a small number of other teams simultaneously, whether consuming or providing the facilitation. Typical Uses: An enabling team helping a stream-aligned, complicated-subsystem, or platform team; or a stream-aligned, complicated-subsystem, or platform team helping a stream-aligned team.
+==========
+Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 228 | Location 2634-2635 | Added on Sunday, April 28, 2024 8:43:10 AM
+
+Teams interacting using the collaboration mode should expect to have high interaction and mutual respect with the collaborating team.
+==========
+Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 228 | Location 2644-2644 | Added on Sunday, April 28, 2024 8:43:18 AM
+
+Teams interacting using the X-as-a-Service mode should expect to emphasize the user experience of the thing being provided as a service.
+==========
+Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 229 | Location 2653-2653 | Added on Sunday, April 28, 2024 8:43:45 AM
+
+Teams interacting using the facilitating mode should expect to help and be helped.
+==========
+Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 229 | Location 2654-2655 | Added on Sunday, April 28, 2024 8:44:00 AM
+
+People in the stream-aligned team need to be open to being helped by the enabling team; they need to have an open mind to new approaches and be aware that the enabling team has probably seen some better approaches.
+==========
+Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 231 | Location 2671-2685 | Added on Sunday, April 28, 2024 8:44:55 AM
+
+Table 7.4: Team interaction modes of the fundamental team topologies Collaboration X-as-a-Service Facilitating Stream-aligned Typical Typical Occasional Enabling Occasional Typical Complicated-subsystem Occasional Typical Platform Occasional Typical
+==========
+Team_Topologies_Organizing_Business_and_Technology_Teams_for_Fas (Matthew Skelton)
+- Your Highlight on page 241 | Location 2791-2798 | Added on Sunday, April 28, 2024 8:48:12 AM
+
+Collaboration: two teams work closely together for a defined period to discover new patterns, approaches, and limitations. Responsibility is shared and boundaries blurred, but problems are solved rapidly and the organization learns quickly. ​•​X-as-a-Service: one team consumes something (such as a service or an API) provided “as a service” from another team. Responsibilities are clearly delineated and—if the boundary is effective—the consuming team can deliver rapidly. The team providing the service seeks to make their service as easy to consume as possible. ​•​Facilitating: one team helps another team to learn or adopt new approaches for a defined period of time. The team providing the facilitation aims to make the other team self-sufficient as soon as possible, while the team receiving the facilitation has an open-minded attitude to learning.
+==========
